@@ -1,7 +1,7 @@
 ---
 title: June Seo Chang
 role: Undergraduate Student
-avatar_filename: avatar.jpg
+avatar_filename: ""
 bio: My research interests include Artificial Intelligence, Machine Learning.
 interests:
   - Artificial Intelligence
