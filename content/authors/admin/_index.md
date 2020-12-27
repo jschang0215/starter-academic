@@ -20,13 +20,16 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/juneseo-chang-477670180/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Seoul National University
+    url: https://cse.snu.ac.kr/
 education:
   courses:
     - course: High School
       institution: Daegu Science High School for Gifted
-      year: 2021
+      year: 2020
+    - course: B.S. student in Computer Science and Engineering
+      institution: Seoul National University
+      year: ""
 email: ""
 superuser: true
 highlight_name: false
