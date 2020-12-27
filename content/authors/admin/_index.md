@@ -24,7 +24,7 @@ organizations:
     url: https://cse.snu.ac.kr/
 education:
   courses:
-    - course: B.S. student in Computer Science and Engineering
+    - course: B.S. Computer Science and Engineering
       institution: Seoul National University
       year: ""
     - course: High School
