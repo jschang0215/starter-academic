@@ -51,7 +51,7 @@ title: Efficient Hyperplane Generation Techniques for Human Activity
   Classification in Multiple-Event Sensors Based Smart Home
 subtitle: 다중 이벤트 센서 기반 스마트 홈에서 사람 행동 분류를 위한 효율적 의사결정평면 생성기법
 doi: ""
-featured: true
+featured: false
 tags: []
 categories:
   - Domesitic
@@ -61,9 +61,9 @@ image:
   focal_point: ""
   preview_only: false
   filename: featured.png
-date: 2013-07-01T00:00:00Z
+date: 2013-07-01T00:00:00.000Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
