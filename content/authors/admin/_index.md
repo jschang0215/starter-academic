@@ -24,12 +24,12 @@ organizations:
     url: https://cse.snu.ac.kr/
 education:
   courses:
-    - course: High School
-      institution: Daegu Science High School for Gifted
-      year: 2020
     - course: B.S. student in Computer Science and Engineering
       institution: Seoul National University
       year: ""
+    - course: High School
+      institution: Daegu Science High School for Gifted
+      year: 2020
 email: ""
 superuser: true
 highlight_name: false
