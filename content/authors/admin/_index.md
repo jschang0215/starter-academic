@@ -26,7 +26,7 @@ education:
   courses:
     - course: B.S. Computer Science and Engineering
       institution: Seoul National University
-      year: ""
+      year: "Present"
     - course: High School
       institution: Daegu Science High School for Gifted
       year: 2020
