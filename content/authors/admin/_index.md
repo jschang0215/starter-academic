@@ -9,7 +9,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: mailto:jschang0215@snu.ac.kr
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=l6QbUegAAAAJ&hl=en
