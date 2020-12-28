@@ -26,7 +26,7 @@
 [[main]]
   name = "Honors"
   url = "#accomplishments"
-  weight = 20
+  weight = 30
 
 #[[main]]
 #  name = "Contact"
@@ -38,4 +38,4 @@
 [[main]]
   name = "CV"
   url = "media/resume.pdf"
-  weight = 30
+  weight = 40
