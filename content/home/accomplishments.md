@@ -6,10 +6,10 @@ title: Honors and Awards
 subtitle: null
 date_format: Jan 2006
 item:
-  - certificate_url:
-    date_end: "Dec 2020"
-    date_start: "Mar 2019"
-    description: "Scholarhip for talented high school students"
+  - certificate_url: ""
+    date_end: "2020-12-31"
+    date_start: "2019-03-01"
+    description: Scholarhip for talented high school students
     organization: Hansung Son Jae Han Scholarship Society
     organization_url: http://sonjaehan.org/main/index.php
     title: Hangsung Scholarship
