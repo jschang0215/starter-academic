@@ -21,7 +21,7 @@ abstract: In this paper, we propose an efficient hyperplane generation technique
   and enables the proposed algorithm to become 27% faster than LSVM, and 90%
   faster than LSTM.
 slides: ""
-url_pdf: ""
+url_pdf: "Efficient Hyperplane Generation Techniques for Human Activity Classification in Multiple-Event Sensors Based Smart Home.pdf"
 publication_types:
   - "2"
 authors:
