@@ -30,7 +30,7 @@ education:
       year: ""
     - course: Science High School for Gifted
       institution: Daegu Science High School
-      year: 2021
+      year: ""
 email: ""
 superuser: true
 highlight_name: false
