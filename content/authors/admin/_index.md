@@ -4,7 +4,8 @@ role: Undergraduate Student
 avatar_filename: ""
 bio: My research interests include Artificial Intelligence, Machine Learning.
 interests:
-  - Artificial Intelligence
+  - Operating System
+  - Distributed System
   - Machine Learning
 social:
   - icon: envelope
