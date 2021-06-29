@@ -39,3 +39,8 @@
   name = "CV"
   url = "media/JSChang_CV.pdf"
   weight = 40
+  
+[[main]]
+  name = "Blog"
+  url = "https://jschang.tistory.com/"
+  weight = 50
