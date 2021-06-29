@@ -14,6 +14,7 @@ item:
     organization_url: https://www.kosaf.go.kr/ko/notice.do?ctgrId1=0000000002&ctgrId2=0000000005
     title: President Science Scholarship,
     url: ""
+widget_id: Awards
 item:
   - certificate_url: ""
     date_end: "2020-12-31"
