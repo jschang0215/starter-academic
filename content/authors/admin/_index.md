@@ -37,4 +37,4 @@ highlight_name: false
 ---
 Hi, I am an undergraduate student majoring Computer Science and Engineering at Seoul National University. I am interested in operating system and machine learning. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/JSChang_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/JSChang_CV.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}.
