@@ -20,7 +20,7 @@ item:
     description: Scholarship for Undergraduate Students, $44,000 over four years
     organization: President of Republic of Korea
     organization_url: https://www.kosaf.go.kr/ko/notice.do?ctgrId1=0000000002&ctgrId2=0000000005
-    title: President Science Scholarship,
+    title: President Science Scholarship
     url: ""
 widget_id: Awards
 ---
