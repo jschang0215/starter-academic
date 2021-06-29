@@ -1,4 +1,3 @@
-<!--
 ---
 widget: pages
 widget_id: Recent-Publications
@@ -23,5 +22,4 @@ design:
 
 {{% callout note %}}
 Quickly discover relevant content by [filtering publications](./publication/).
-{{% /callout %}}
--->
+{{% /callout %}
