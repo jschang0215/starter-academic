@@ -14,15 +14,6 @@ item:
     organization_url: http://sonjaehan.org/main/index.php
     title: Hansung Scholarship
     url: ""
-widget_id: Awards
-
-widget: accomplishments
-headless: true
-weight: 50
-title: Honors and Awards
-subtitle: null
-date_format: Jan 2006
-item:
   - certificate_url: ""
     date_end: "Present"
     date_start: "2021"
